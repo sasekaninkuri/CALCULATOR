@@ -1,0 +1,38 @@
+
+
+.tax-calculator {
+    height: 450px;
+    width: 300px;
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    padding: 30px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+  }
+
+  .tax-calculator input[type="number"] {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 5px;
+    font-size: 18px;
+  }
+
+  .tax-calculator input[type="button"] {
+    width: 100%;
+    padding: 5px;
+    font-size: 18px;
+    border-radius: 20px;
+  }
+  img{
+    height: 60px;
+    width: 60px;
+    float: left;
+    border-radius: 20px;
+  }  
+
+  form a{
+    text-decoration: none;
+    color: black;
+  }

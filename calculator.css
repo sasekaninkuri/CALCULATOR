@@ -1,0 +1,29 @@
+
+
+
+.calculator{
+    height: 500px;
+    width: 350px;
+    background-color: rgb(240, 240, 240);
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+input{
+    height: 30px;
+    width: 300px;
+    border: none;
+    border-radius: 20px;
+}
+
+button{
+    height: 40px;
+    width: 100px;
+    background-color: deeppink;
+}
+#result {
+    font-weight: bold;
+  }

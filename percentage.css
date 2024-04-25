@@ -1,0 +1,65 @@
+
+
+.percentage-calculator {
+    height: 450px;
+    width: 300px;
+    background-color: #4691a7;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .percentage-calculator input[type="number"] {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 5px;
+    font-size: 18px;
+  }
+
+  .percentage-calculator input[type="button"] {
+    width: 100%;
+    padding: 5px;
+    font-size: 18px;
+    border-radius: 20px;
+  }
+  img{
+    height: 60px;
+    width: 60px;
+    float: left;
+    border-radius: 20px;
+  }
+
+  .calculator {
+    width: 300px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  input[type="number"],
+  button {
+    margin: 5px;
+    padding: 8px;
+    width: 80%;
+  }
+  
+  button {
+    cursor: pointer;
+    background-color: #b15cae;
+    color: white;
+    border: none;
+    border-radius: 4px;
+  }
+  
+  button:hover {
+    background-color: #64a9f3;
+  }
+  
+  #result {
+    font-weight: bold;
+  }
+  
